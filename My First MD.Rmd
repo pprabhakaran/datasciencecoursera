@@ -1,0 +1,14 @@
+---
+title: "My_First_MD"
+author: "Pradeep Prabhakaran"
+date: "Thursday, March 12, 2015"
+output: html_document
+---
+## Header 2
+### Header 3
+
+```**bold**
+* List 1
+* List 2
+* List 3
+```
